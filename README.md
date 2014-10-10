@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository test
+Hi humans,
+
+Just a little test to see how Github works.
